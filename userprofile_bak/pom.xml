@@ -12,7 +12,7 @@
         <module>model</module>
         <module>common</module>
     </modules>
-
+	<!--随便加的 -->
     <!-- 指定仓库位置，依次为aliyun、cloudera和jboss仓库 -->
     <repositories>
         <repository>
