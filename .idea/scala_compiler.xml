@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="Maven 1" modules="model">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="F:\大数据\用户画像\用户画像-day02\代码\userprofile_bak\userprofile_bak\model\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 2" modules="common">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="F:\大数据\用户画像\用户画像-day02\代码\userprofile_bak\userprofile_bak\common\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+  </component>
+</project>
